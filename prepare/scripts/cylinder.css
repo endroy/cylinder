@@ -1,0 +1,17 @@
+body, img, div {
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	/*float: left;*/
+}
+
+#container {
+	position: relative;
+}
+
+.cyn_image {
+	position: absolute;
+	width: 3195px;
+}
